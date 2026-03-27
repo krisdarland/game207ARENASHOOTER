@@ -1,0 +1,15 @@
+[14044:14476:0325/144059.732:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14044:11304:0325/144059.837:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14044:14476:0325/144059.879:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6348:15220:0325/144107.363:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7502A7C2CFCFE999161904D12734C330 will be ignored
+[30428:13096:0325/144109.737:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30428:13096:0325/144109.761:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30428:13096:0325/144122.243:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30428:13096:0325/144137.123:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30428:13096:0325/152309.633:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[30428:13096:0325/152309.672:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30428:13096:0325/152322.860:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[30428:13096:0325/152337.525:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[30428:13096:0325/152532.689:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 35
+[30428:13096:0325/153606.785:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 59
+[14044:14476:0325/160627.459:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

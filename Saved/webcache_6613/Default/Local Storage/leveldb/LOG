@@ -1,3 +1,6 @@
-2026/03/15-07:48:49.831 5908 Reusing MANIFEST C:\Users\darla\OneDrive\Documents\Unreal Projects\gam207ARENASHOOTER\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/03/15-07:48:49.855 5908 Recovering log #3
-2026/03/15-07:48:49.859 5908 Reusing old log C:\Users\darla\OneDrive\Documents\Unreal Projects\gam207ARENASHOOTER\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/26-12:31:22.417 529c Reusing MANIFEST C:\Users\darla\OneDrive\Desktop\gam207ARENASHOOTER\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/03/26-12:31:22.438 529c Recovering log #3
+2026/03/26-12:31:22.443 529c Reusing old log C:\Users\darla\OneDrive\Desktop\gam207ARENASHOOTER\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/03/26-12:41:13.183 78b4 Level-0 table #5: started
+2026/03/26-12:41:13.195 78b4 Level-0 table #5: 58271 bytes OK
+2026/03/26-12:41:13.199 78b4 Delete type=0 #3

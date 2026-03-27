@@ -1,0 +1,12 @@
+[18264:7888:0324/121316.465:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18264:27956:0324/121316.754:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[18264:7888:0324/121317.118:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28500:28504:0324/121331.828:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B231F58E630BF713E43D7789454295E6 will be ignored
+[15816:25840:0324/121331.850:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[15816:25840:0324/121332.815:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[15816:25840:0324/121341.483:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[15816:25840:0324/121353.485:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[18264:7888:0324/155348.390:ERROR:device_event_log_impl.cc(196)] [15:53:48.377] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[18264:7888:0324/155348.466:ERROR:device_event_log_impl.cc(196)] [15:53:48.452] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[15816:25840:0324/155607.678:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 65
+[18264:7888:0324/165359.872:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

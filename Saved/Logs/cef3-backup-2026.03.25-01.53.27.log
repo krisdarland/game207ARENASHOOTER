@@ -1,0 +1,18 @@
+[29720:25460:0324/175918.030:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29720:19624:0324/175918.119:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29720:25460:0324/175918.131:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28152:22836:0324/175927.270:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-7FBC1D5D05CCDD0C0F3627DA8FF13929 will be ignored
+[6020:29452:0324/175928.302:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6020:29452:0324/175929.006:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6020:29452:0324/175942.728:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6020:29452:0324/175951.024:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6020:29452:0324/180740.020:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[6020:29452:0324/181321.796:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 11
+[6020:29452:0324/181846.105:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 17
+[6020:29452:0324/193643.669:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 95
+[6020:29452:0324/202527.202:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6020:29452:0324/202527.236:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6020:29452:0324/202541.848:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6020:29452:0324/202602.257:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6020:29452:0324/204801.318:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 129
+[29720:25460:0324/205327.551:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
